@@ -70,8 +70,11 @@ Amaç, şirket bünyesinde staj yapan öğrencilerin devam, performans ve depart
 
 ## 🚀 Kurulum & Kullanım
 1️⃣ **SAP GUI** üzerinden `PROJE.abap` raporunu indirip SAP GUI kodu se38 ile PROJE dosyasının kodlarını içine aktarın.
+
 2️⃣ Stajyer Devam Sistemi klasörü altındaki ZTEST_INSERT_STAJYER.abap içindeki verileri de aynı adda dosya açıp çalıştırın. Verileriniz hazır olucaktır.
+
 3️⃣ **Dynpro 0103** ekranında departman seçerek stajyerleri listeleyin. 
+
 4️⃣ Yeni kayıt ekleyin veya mevcut kayıtları güncelleyin.  
 
 ---
